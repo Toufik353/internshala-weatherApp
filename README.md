@@ -1,4 +1,4 @@
-](https://github.com/Toufik353/internshala-weatherApp)
+https://github.com/Toufik353/internshala-weatherApp
 
 Here's a README file for your Weather Dashboard project:
 
